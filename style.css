@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.n1{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.n2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.text{
+    padding: 10px;
+
+}
+/* imgs */
+.im1{
+    width: 350px;
+}
+/* texts */
+.t1{
+    color: gray;
+}
+.t2{
+    font-weight: 900;
+    font-size: 30px;
+    margin-top: 10px;
+}
+hr{
+    margin-top: 20px;
+}
